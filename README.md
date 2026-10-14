@@ -33,3 +33,10 @@ Visualizations were used to transform raw data into meaningful insights. Charts 
 - Line charts for analyzing trends over time
 - Heatmaps to understand correlations between variables
 
+
+
+## Git Learning Practice
+
+- Cloned the repository locally.
+- Created a feature branch.
+- Practised committing and pushing changes.
